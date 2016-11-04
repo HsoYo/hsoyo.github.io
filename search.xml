@@ -36,7 +36,9 @@
     <entry>
       <title><![CDATA[404 Not Found：该页无法显示]]></title>
       <url>http://hsoyo.github.io//404.html</url>
-      <content type="html"><![CDATA[<h2 id="空山新雨后-天气晚来秋。"><a href="#空山新雨后-天气晚来秋。" class="headerlink" title="空山新雨后,天气晚来秋。"></a>空山新雨后,天气晚来秋。</h2><p>——《山居秋暝》王维</p>
+      <content type="html"><![CDATA[<blockquote>
+<h2 id="空山新雨后-天气晚来秋。"><a href="#空山新雨后-天气晚来秋。" class="headerlink" title="空山新雨后,天气晚来秋。"></a>空山新雨后,天气晚来秋。</h2><p>——《山居秋暝》王维</p>
+</blockquote>
 ]]></content>
     </entry>
     
