@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hsoyo.github.io/"/>
-  <updated>2016-11-04T19:01:22.393Z</updated>
+  <updated>2016-11-05T18:36:09.790Z</updated>
   <id>http://hsoyo.github.io/</id>
   
   <author>
@@ -16,9 +16,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>中文说唱的问题</title>
+    <link href="http://hsoyo.github.io/uncat/2016/11/06/cnrapproblems.html"/>
+    <id>http://hsoyo.github.io/uncat/2016/11/06/cnrapproblems.html</id>
+    <published>2016-11-05T18:36:09.000Z</published>
+    <updated>2016-11-05T18:36:09.790Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>信息加减法</title>
-    <link href="http://hsoyo.github.io/uncat/2016/11/05/%E4%BF%A1%E6%81%AF%E5%8A%A0%E5%87%8F%E6%B3%95.html"/>
-    <id>http://hsoyo.github.io/uncat/2016/11/05/信息加减法.html</id>
+    <link href="http://hsoyo.github.io/uncat/2016/11/05/infoplusminus.html"/>
+    <id>http://hsoyo.github.io/uncat/2016/11/05/infoplusminus.html</id>
     <published>2016-11-04T19:01:22.000Z</published>
     <updated>2016-11-04T19:01:22.393Z</updated>
     
@@ -30,40 +44,13 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://hsoyo.github.io/uncat/2016/11/05/hello-world.html"/>
-    <id>http://hsoyo.github.io/uncat/2016/11/05/hello-world.html</id>
-    <published>2016-11-04T18:32:05.058Z</published>
-    <updated>2016-11-03T15:17:52.746Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>在你看我博客之前应该知道的</title>
     <link href="http://hsoyo.github.io/%E5%8D%9A%E5%AE%A2/2016/11/04/1st-blog.html"/>
     <id>http://hsoyo.github.io/博客/2016/11/04/1st-blog.html</id>
     <published>2016-11-03T16:49:48.000Z</published>
-    <updated>2016-11-05T17:13:59.790Z</updated>
+    <updated>2016-11-05T17:22:37.683Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="“我的”介绍"><a href="#“我的”介绍" class="headerlink" title="“我的”介绍"></a>“我的”介绍</h2><h3 id="我的行文风格"><a href="#我的行文风格" class="headerlink" title="我的行文风格"></a>我的行文风格</h3><p>虽然我非常不喜欢“我先声明,我是个粗人”,然后说粗话或者做出粗鲁行径的人.但是很遗憾的是我也得先做类似的声明:我自初中考试写作文之后再没正经写过给众人看的长文,并且在那之前我的写作风格也是让我自己十分不满的.所以我要对可能会喜欢我文章的人致歉,你们被我的行文损害了思想和浪费了时间.<br>如果让我自己用几个词简单概括下自己的文风,就是:<br>语无伦次,跳跃性思考,喧宾夺主,转折连词,流水账,自我矛盾</p>
+    <content type="html"><![CDATA[<h2 id="“我的”介绍"><a href="#“我的”介绍" class="headerlink" title="“我的”介绍"></a>“我的”介绍</h2><h3 id="我的行文风格"><a href="#我的行文风格" class="headerlink" title="我的行文风格"></a>我的行文风格</h3><p>“我先声明,我是个粗人”,虽然我非常讨厌打了”预防针”之后说粗话或者做出粗鲁行径的人.但是很遗憾的是我也得先做类似的声明:<br>我自初中考试写作文之后再没正经写过给众人看的长文,并且在那之前我的写作风格也是让我自己十分不满的.<br>所以我要对可能会喜欢我文章的人致歉,你们被我的行文损害了思想和浪费了时间.<br>如果让我自己用几个词说明下自己的文风,就是:<br>语无伦次,跳跃性思考,喧宾夺主,转折连词,流水账,自我矛盾</p>
 <p>我也许会在博客写作的进程中去刻意地看写作方面的书去提高和学习,但更大的可能是不会,因为我一直以来没有这种动机,下文会细谈.</p>
 <h3 id="我的写作习惯"><a href="#我的写作习惯" class="headerlink" title="我的写作习惯"></a>我的写作习惯</h3><ul>
 <li>首行不缩进</li>
@@ -83,7 +70,7 @@
 <h3 id="我对”你”的默认"><a href="#我对”你”的默认" class="headerlink" title="我对”你”的默认"></a>我对”你”的默认</h3><ul>
 <li>You can cross the GFW</li>
 <li>你是一个成年人.虽然本博客不会有NSFW内容,但我会论述大量不适合未成年人的东西.所以如果你是未成年人,或者是心智方面的未成年人——像我一样,就不要再让我强化你的偏见了.</li>
-<li>对我不要有”乐于助人”的期待,我写的大部分教程都是给自己总结之用.但我并非不接受提问,如果你读过或者理解 <a href="https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md" target="_blank" rel="external">提问的智慧</a> 的精神,我非常欢迎你和我讨论.但是如果你不是明确明白自己比我知道的少,也请不要问我,大部分事物上我是一个半瓶子晃荡无力解决深入问题的状态.</li>
+<li>对我不要有”乐于助人”的期待,我写的大部分教程都是给自己总结之用.但我并非不接受提问,如果你读过或者理解 <a href="https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md" target="_blank" rel="external">《提问的智慧》</a> 的精神,我非常欢迎你和我讨论.但是如果你不是明确明白自己比我知道的少,也请不要问我,大部分事物上我是一个半瓶子晃荡无力解决深入问题的状态.</li>
 <li>我欢迎一切看笑话的人,这样的人是美好的.如果你能从我的愚蠢中得到讽刺剧般的乐趣,那对我也是一种激励和安慰.但请注意不要以这种心态留言,要知道最佳笑话的笑点都是不能点破的,说出来就不好笑了.</li>
 <li>你不爱惜自己的时间.上文我说过为喜欢我文章的人因为我行文所浪费的时间而致歉,但事实上.珍惜时间的人绝对不该看我写的任何个人方面的文章,更不可能会喜欢它们.在我眼里时间以及时间组成的生命,都是没有爱惜的价值的.不存在浪费,要么打发掉,要么利用掉而已.</li>
 </ul>
