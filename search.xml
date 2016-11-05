@@ -44,9 +44,19 @@
     </entry>
     
     <entry>
-      <title><![CDATA[about]]></title>
+      <title><![CDATA[关于我]]></title>
       <url>http://hsoyo.github.io/about/index.html</url>
-      <content type="html"></content>
+      <content type="html"><![CDATA[<p>###基本信息</p>
+<ul>
+<li>姓名： 徐耀</li>
+<li>性别： 男</li>
+<li>民族： 汉族</li>
+<li>出生日期： 1994年11月24日</li>
+<li>籍贯： 山东省临沂市蒙阴县</li>
+</ul>
+<p>###个人经历<br>2016/11/5<br>如果详细地说明，我难免有美化和隐藏的部分。也可能情绪失控充满了仇恨与抱怨，导致我觉得写博客毫无意义进而直接删了repository，所以在此一句话带过：</p>
+<p>我目前是一个精神宁静、身体痛苦的<strong>NEET</strong>。</p>
+]]></content>
     </entry>
     
     <entry>
