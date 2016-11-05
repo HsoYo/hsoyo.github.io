@@ -27,7 +27,8 @@
     <entry>
       <title><![CDATA[1st blog]]></title>
       <url>http://hsoyo.github.io/2016/11/04/1st-blog.html</url>
-      <content type="html"></content>
+      <content type="html"><![CDATA[<p><a href="https://github.com/Rozbo/hexo-hrefmd/blob/master/README.md" target="_blank" rel="external">hexo-hrefmd ‘s readme</a></p>
+]]></content>
     </entry>
     
   
