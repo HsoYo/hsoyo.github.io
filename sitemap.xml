@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hsoyo.github.io//about.html</loc>
+    
+    <lastmod>2016-11-06T15:13:44.824Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hsoyo.github.io/%E5%8D%9A%E5%AE%A2/2016/11/04/1st-blog.html</loc>
     
     <lastmod>2016-11-05T17:22:37.683Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://hsoyo.github.io/tags/index.html</loc>
     
     <lastmod>2016-11-05T17:08:47.119Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hsoyo.github.io//about.html</loc>
-    
-    <lastmod>2016-11-05T15:37:17.276Z</lastmod>
     
   </url>
   
